@@ -1,0 +1,67 @@
+body{
+  background-color: #23eae6;
+}
+.first{overflow: hidden;
+  background-color: #39bdc8;
+  width: 100%;
+  top: 0px;
+  position: fixed;
+
+}
+.first a{float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 30px;
+  text-decoration: none;
+  font-size: 17px;
+
+
+}
+.first a:hover{
+  background-color: #ddd;
+  color: black;
+}
+#one{
+  height: 500px;
+  width:100%;
+  background-repeat: no-repeat;
+}
+#head{
+  font-family: 'Great Vibes', cursive;
+font-family: 'Oleo Script', cursive;
+}
+img{
+  height: 200px;
+  width:400px;
+  display: inline-block;
+  flex-direction: row;
+  border-radius: 70px 70px 70px ;
+  top:0;
+  padding-top: 20px;
+}
+#activities{
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+font-family: 'Oleo Script', cursive;
+font-family: 'Shrikhand', cursive;
+
+  font-size: 30px;
+}
+#travel arrangements{
+  text-align: center;
+  font-size:30px;
+  font-family: 'Great Vibes', cursive;
+font-family: 'Oleo Script', cursive;
+font-family: 'Shrikhand', cursive;
+
+}
+.forms{
+  text-align: center;
+}
+p{
+  text-align: center;}
+  h1,h2,h3{font-family: 'Great Vibes', cursive;
+font-family: 'Oleo Script', cursive;
+font-family: 'Shrikhand', cursive;
+    text-align: center;
+  }
